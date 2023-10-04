@@ -1,0 +1,86 @@
+    [{
+    "id": 1,
+    "titulo": "Jojo",
+    "categoria": "Nike",
+    "descripcion": "Acq absnce breast/nipple",
+    "precio": "$25429.55",
+    "stock": 10
+    }, {
+    "id": 2,
+    "titulo": "Dell",
+    "categoria": "Nike",
+    "descripcion": "Renal dis NOS-del w p/p",
+    "precio": "$25089.05",
+    "stock": 10
+    }, {
+    "id": 3,
+    "titulo": "Derry",
+    "categoria": "Nike",
+    "descripcion": "TB bone/joint NOS-unspec",
+    "precio": "$27672.49",
+    "stock": 10
+    }, {
+    "id": 4,
+    "titulo": "Sibley",
+    "categoria": "Nike",
+    "descripcion": "Sprain radiocarpal",
+    "precio": "$29687.79",
+    "stock": 10
+    }, {
+    "id": 5,
+    "titulo": "Hersh",
+    "categoria": "Adidas",
+    "descripcion": "Excessive cold NEC",
+    "precio": "$22433.99",
+    "stock": 10
+    }, {
+    "id": 6,
+    "titulo": "Eveleen",
+    "categoria": "Adidas",
+    "descripcion": "Spec lacrimal gland anom",
+    "precio": "$28436.14",
+    "stock": 10
+    }, {
+    "id": 7,
+    "titulo": "Denys",
+    "categoria": "Adidas",
+    "descripcion": "Bipolar disorder NEC",
+    "precio": "$16147.52",
+    "stock": 10
+    }, {
+    "id": 8,
+    "titulo": "Kelby",
+    "categoria": "Adidas",
+    "descripcion": "TB lung nodular-micro dx",
+    "precio": "$28816.11",
+    "stock": 10
+    }, {
+    "id": 9,
+    "titulo": "Rosemaria",
+    "categoria": "Puma",
+    "descripcion": "Unsp hemiplga unspf side",
+    "precio": "$19813.93",
+    "stock": 10
+    }, {
+    "id": 10,
+    "titulo": "Wiatt",
+    "categoria": "Puma",
+    "descripcion": "Vescouretrl rflux unspcf",
+    "precio": "$27667.59",
+    "stock": 10
+    }, {
+    "id": 11,
+    "titulo": "Nat",
+    "categoria": "Puma",
+    "descripcion": "Rupture eye w tissu loss",
+    "precio": "$18460.50",
+    "stock": 10
+    }, {
+    "id": 12,
+    "titulo": "Candi",
+    "categoria": "Puma",
+    "descripcion": "Mv-train coll-driver",
+    "precio": "$22010.35",
+    "stock": 10
+    }
+]

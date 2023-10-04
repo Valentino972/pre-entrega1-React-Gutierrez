@@ -1,5 +1,5 @@
 body {
-  background-color: #191b1d;
+  background-color: #eaebec;
 }
 
 @media (prefers-reduced-motion: no-preference) {
@@ -9,7 +9,7 @@ body {
 }
 
 .App-header {
-  background-color: #0b0c0e;
+  background-color: #d3d3d4;
   min-height: 100vh;
   display: flex;
   flex-direction: column;

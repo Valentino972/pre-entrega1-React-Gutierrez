@@ -1,10 +1,32 @@
+import { useEffect, useState } from "react";
+import {pedirDatos} from "../helpers/pedirDatos";
+import ItemList from "./ItemList";
 
 
+// ItemListContainer es el contenedor de todos nuestros productos
 
-const ItemListContainer = (props) => {
+
+const ItemListContainer = () => {
+
+    const [productos, setProductos] = useState([]);
+    
+
+    useEffect(() => {
+        pedirDatos()
+            .then((res) => {
+                setProductos(res);
+            })    
+    }, [])
+    
+    
+
     return (
-        <h1> Bienvenido/a a Dynasty .ind</h1>
-    );
+    <main>
+    <div>
+        <ItemList productos= {productos} />
+    </div>
+    </main>
+    )
 }
 
-export default ItemListContainer;
+export default ItemListContainer
