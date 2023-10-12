@@ -1,9 +1,8 @@
 import { useEffect, useState } from "react";
-import {pedirDatos} from "../helpers/pedirDatos";
+import {pedirDatos} from "../../helpers/pedirDatos";
 import ItemList from "./ItemList";
+import { useParams } from "react-router-dom";
 
-
-// ItemListContainer es el contenedor de todos nuestros productos
 
 
 const ItemListContainer = () => {
@@ -15,17 +14,18 @@ const ItemListContainer = () => {
         pedirDatos()
             .then((res) => {
                 setProductos(res);
+                
             })    
     }, [])
     
     
 
     return (
-    <main>
+    <>
     <div>
         <ItemList productos= {productos} />
     </div>
-    </main>
+    </>
     )
 }
 
