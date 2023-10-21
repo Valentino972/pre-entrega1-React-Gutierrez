@@ -2,84 +2,84 @@
         {
     "id": 1,
     "titulo": "Jojo",
-    "categoria": "Nike",
+    "categoria": "nike",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$25429.55",
     "stock": 10
     }, {
     "id": 2,
     "titulo": "Dell",
-    "categoria": "Nike",
+    "categoria": "nike",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$25089.05",
     "stock": 10
     }, {
     "id": 3,
     "titulo": "Derry",
-    "categoria": "Nike",
+    "categoria": "nike",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$27672.49",
     "stock": 10
     }, {
     "id": 4,
     "titulo": "Sibley",
-    "categoria": "Nike",
+    "categoria": "nike",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$29687.79",
     "stock": 10
     }, {
     "id": 5,
     "titulo": "Botines X Speedportal.3",
-    "categoria": "Adidas",
+    "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$22433.99",
     "stock": 10
     }, {
     "id": 6,
     "titulo": "Botines Ghosted.3",
-    "categoria": "Adidas",
+    "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$28436.14",
     "stock": 10
     }, {
     "id": 7,
     "titulo": "Botines Predator Mutator.2",
-    "categoria": "Adidas",
+    "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$50.499",
     "stock": 10
     }, {
     "id": 8,
     "titulo": "Botines Predator Accuracy.3",
-    "categoria": "Adidas",
+    "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$28816.11",
     "stock": 10
     }, {
     "id": 9,
     "titulo": "Rosemaria",
-    "categoria": "Puma",
+    "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$19813.93",
     "stock": 10
     }, {
     "id": 10,
     "titulo": "Wiatt",
-    "categoria": "Puma",
+    "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$27667.59",
     "stock": 10
     }, {
     "id": 11,
     "titulo": "Nat",
-    "categoria": "Puma",
+    "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$18460.50",
     "stock": 10
     }, {
     "id": 12,
     "titulo": "Candi",
-    "categoria": "Puma",
+    "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
     "precio": "$22010.35",
     "stock": 10

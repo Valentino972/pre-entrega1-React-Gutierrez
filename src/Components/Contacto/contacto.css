@@ -1,0 +1,30 @@
+/*===========  Formulario  ===========*/
+
+.formulario {
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+    align-items: flex-start;
+}
+
+.formulario input {
+    margin-left: 2rem;
+    padding: .5rem;
+    width: 18rem;
+    border-radius: .5rem;
+    border: 2px solid black;
+}
+
+.formulario input:focus {
+    outline: 0;
+    border: 2px solid ;
+    outline: 2px solid ;
+}
+button{
+    margin-left: 2rem;
+}
+
+.main-title-contacto{
+    margin: 1rem;
+    margin-left: 2rem;
+}

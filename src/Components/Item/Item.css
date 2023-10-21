@@ -1,26 +1,17 @@
-.ItemDetail{
-    margin: 20px;
-    font-size: 18px;
+
+.main-title{
+    margin: 50px;
 }
 
 
-.title{
-    
-    
-}
-
-
-    /*==============PRODUCTOS===============*/
+/*==============PRODUCTOS===============*/
 .productos {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2rem;
     padding: 16rem;
-    margin-top: -60px;
+    margin-top: -200px;
     margin-left: 30px;
-    
-
-
 }
 
 .producto-container {
@@ -29,10 +20,6 @@
     border-radius: 1rem;
     height: 500px;
     width: 330px;
-    ;
-
-    
-    
 }
 
 .producto-container:hover{
@@ -47,12 +34,6 @@
     flex-direction: column;
     gap: .5rem;
     box-shadow: #eaeaea 2px;
-}
-
-.producto-container > img {
-    width: 100%;
-    aspect-ratio: 2/1;
-    object-fit: cover;
 }
 
 .producto-container .btn-prod {
@@ -75,17 +56,25 @@
     padding-block: 2rem;
     display: grid;
     grid-template-columns: 1fr 2fr;
-    gap: 10rem;
+    gap: 13rem;
     margin-top: 3rem;
     border: 1px solid black;
-}
-
-.producto-detalle img {
-    width: 100%;
+    margin-right: 60px;
+    background-color: #FFFFFF;
 }
 
 .producto-detalle-info h3 {
     font-size: 2rem;
+}
+
+
+
+.imagen{
+    margin-top: -30px;
+    height: 340px;
+    width: 350px;
+    z-index: 1;
+    position: relative;
 }
 
 .titulo{
@@ -130,7 +119,6 @@
     margin: auto;
     margin-left: 60px;
     justify-content: center;
-    
 }
 
 .detalle-der{
@@ -138,5 +126,6 @@
     height: 350px;
     width: 430px;
     /* border: 1px solid black; */
+    margin-left: -190px;
 }
 

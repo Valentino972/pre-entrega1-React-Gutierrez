@@ -15,19 +15,19 @@ import { Link } from "react-router-dom";
 
 
 const imagenesPorCategoria = {
-    Nike: {
+    nike: {
         1: nike1,
         2: nike2,
         3: nike3,
         4: nike4,
     },
-    Adidas: {
+    adidas: {
         5: adidas1,
         6: adidas2,
         7: adidas3,
         8: adidas4,
     },
-    Puma: {
+    puma: {
         9: puma1,
         10: puma2,
         11: puma3,
@@ -57,5 +57,5 @@ const Item = ({ producto }) => {
     );
 }
 
-export default Item;
+export default Item ;
 
