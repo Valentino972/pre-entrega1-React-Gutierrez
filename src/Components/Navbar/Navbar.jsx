@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import './Navbar.css';
 import '../Contacto/Contacto';
+import CartWidget from "../Carrito/CartWidget";
 
 
 
@@ -19,10 +20,7 @@ const Navbar = () => {
                 
             </ul>
 
-            <div className="shop">
-            <i class='bx bx-cart'></i>
-                <span className="item__total">0</span>
-            </div>
+            <CartWidget/>
         </nav>
 
         

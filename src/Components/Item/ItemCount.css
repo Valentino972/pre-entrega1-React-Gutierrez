@@ -10,7 +10,7 @@
     margin-top: 1rem;
 }
 
-.item-count button, .agregar-al-carrito, .enviar {
+.item-count button, .button, .enviar {
     background-color: black;
     border: 0;
     width: 2rem;
@@ -27,14 +27,20 @@
     transition: .2s;
 }
 
-.item-count button:hover, .agregar-al-carrito:hover, .enviar:hover {
+.item-count button:hover, .button:hover, .enviar:hover {
     background-color: rgb(202, 194, 194);
     color: black;
 }
 
-.agregar-al-carrito, .enviar {
+.button, .enviar {
     width: auto;
     height: auto;
     margin-top: 1rem;
     padding: 1rem;
+}
+
+.al-carrito-detail{
+    display: flex;
+    margin-left: 13rem;
+    margin-top: -2.2rem;
 }

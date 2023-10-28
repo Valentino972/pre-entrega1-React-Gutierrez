@@ -39,49 +39,49 @@
     "titulo": "Botines Ghosted.3",
     "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$28436.14",
+    "precio": 28436.14,
     "stock": 10
     }, {
     "id": 7,
     "titulo": "Botines Predator Mutator.2",
     "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$50.499",
+    "precio": 50.499,
     "stock": 10
     }, {
     "id": 8,
     "titulo": "Botines Predator Accuracy.3",
     "categoria": "adidas",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$28816.11",
+    "precio": 28816.11,
     "stock": 10
     }, {
     "id": 9,
     "titulo": "Rosemaria",
     "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$19813.93",
+    "precio": 19813.93,
     "stock": 10
     }, {
     "id": 10,
     "titulo": "Wiatt",
     "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$27667.59",
+    "precio": 27667.59,
     "stock": 10
     }, {
     "id": 11,
     "titulo": "Nat",
     "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$18460.50",
+    "precio": 18460.50,
     "stock": 10
     }, {
     "id": 12,
     "titulo": "Candi",
     "categoria": "puma",
     "descripcion": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Rerum et vero commodi sequi molestias perspiciatis enim praesentium, amet possimus, non ad tempore vitae optio ea.",
-    "precio": "$22010.35",
+    "precio": 22010.35,
     "stock": 10
     }
 ]

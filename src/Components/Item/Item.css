@@ -92,7 +92,7 @@
     display:flex;
     /* align-items: center; */
     margin: 8px;
-        /* border: 1px solid black; */
+    /* border: 1px solid black; */
 }
 
 .categoria {
@@ -125,7 +125,11 @@
     margin-top: -2rem;
     height: 350px;
     width: 430px;
-    /* border: 1px solid black; */
-    margin-left: -190px;
+    border: 1px solid black;
+    margin-left: -10px;
+}
+
+.numero-pedido{
+    margin-left: 80px;
 }
 
